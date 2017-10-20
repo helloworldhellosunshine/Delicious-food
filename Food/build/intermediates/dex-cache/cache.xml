@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_e07938b347d8b47dcebe7dcf73018a0c246a498b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\0637b97a343780c4249bfe1ea253eb5cee9ecf94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88a61540b959acefad94af2e31989104091b624a">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_4e4dabb56437c3617c71467422e5b8fb8a6080c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\com.android.volley-2015.05.28_0eabda7878e8fd61dca135c3230df0672bba3051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\c83db668526bda04e2da7354873fb4eee6799978\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_87dd97c741e3017b8e75d1203df83cd896f11ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\2580634d2e1e896ec2d6126e6eb430d8d4346d17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c27d853ba7379592540b315e43df0abf3d83cf74">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_1211777e4839f12da459941a657eaba4fa92edde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\89da2d586782298398d0758d2c60fbc200758b4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_520947ae2e9cab5ada941e3eea27ccbe1581c347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\intellij\annotations\12.0\annotations-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\annotations-12.0_e0fa7c64b47413623bb97d5f6a361b3c347a7145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_7af52af4188ab5673628e9fda015e473f097c54b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\gson-2.8.1_5c08029cd8b4f6452e847ab061e227b66d61615f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\okio-1.9.0_b24ba01383a9d721ffb35708ecbbf43055784541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_61f5f132bab4e03ef53a9aaf03d0502be11c4b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\王帝\.android\build-cache\70191cead5b99603b9e0c26ce1566d901b46b9f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="D:\androidfile\Food\app\build\intermediates\pre-dexed\debug\classes_d41b915d32e2030b942ad10d6575078161c99846.jar" />
+    </item>
+
+</items>

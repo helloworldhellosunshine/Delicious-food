@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\王帝\.android\build-cache\f0c2a831c8eaf00674d9960233c73d989d2bbbef\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\89da2d586782298398d0758d2c60fbc200758b4f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.bmelnychuk:atv:1.2.9] C:\Users\王帝\.android\build-cache\0637b97a343780c4249bfe1ea253eb5cee9ecf94\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\f54120708cea90e8ff2db65312726a00a267a4cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\012a70382980bca0278cfe89d03dafc1cc829423\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\c0e4bc383e725d49ff548cd3bb7627ffc9b73453\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\9347c0eab5871ee4f3437c9e0713966a8f848b8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5c8cfdd8d3740f77374b4f2a3d98b18aed63ce60\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e6a77ec2508903b8fa1d7eec71fd7cf89e30e7cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e22b6ceb21301ea9d1c11b3033cc6605c80ff0af\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\a5244caf3d1800f36b48c4a6fa82b08154043535\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5babb31c13e872a3a1263ef6b76bb08d03e2e9fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\王帝\.android\build-cache\2580634d2e1e896ec2d6126e6eb430d8d4346d17\output\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:13:9-52
+activity#com.example.food.MyActivity
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:14:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.food.DetailActivity
+ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from D:\androidfile\Food\app\src\main\AndroidManifest.xml:21:19-49
+uses-sdk
+INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\王帝\.android\build-cache\f0c2a831c8eaf00674d9960233c73d989d2bbbef\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\c83db668526bda04e2da7354873fb4eee6799978\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\89da2d586782298398d0758d2c60fbc200758b4f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.bigkoo:convenientbanner:2.0.5] C:\Users\王帝\.android\build-cache\70191cead5b99603b9e0c26ce1566d901b46b9f8\output\AndroidManifest.xml:7:5-44
+MERGED from [com.github.bmelnychuk:atv:1.2.9] C:\Users\王帝\.android\build-cache\0637b97a343780c4249bfe1ea253eb5cee9ecf94\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\f54120708cea90e8ff2db65312726a00a267a4cc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\012a70382980bca0278cfe89d03dafc1cc829423\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\c0e4bc383e725d49ff548cd3bb7627ffc9b73453\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\9347c0eab5871ee4f3437c9e0713966a8f848b8c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5c8cfdd8d3740f77374b4f2a3d98b18aed63ce60\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e6a77ec2508903b8fa1d7eec71fd7cf89e30e7cc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e22b6ceb21301ea9d1c11b3033cc6605c80ff0af\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\a5244caf3d1800f36b48c4a6fa82b08154043535\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5babb31c13e872a3a1263ef6b76bb08d03e2e9fa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.wefika:flowlayout:0.4.1] C:\Users\王帝\.android\build-cache\2580634d2e1e896ec2d6126e6eb430d8d4346d17\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidfile\Food\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\c83db668526bda04e2da7354873fb4eee6799978\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\89da2d586782298398d0758d2c60fbc200758b4f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\f54120708cea90e8ff2db65312726a00a267a4cc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\012a70382980bca0278cfe89d03dafc1cc829423\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\c0e4bc383e725d49ff548cd3bb7627ffc9b73453\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\9347c0eab5871ee4f3437c9e0713966a8f848b8c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5c8cfdd8d3740f77374b4f2a3d98b18aed63ce60\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e6a77ec2508903b8fa1d7eec71fd7cf89e30e7cc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\e22b6ceb21301ea9d1c11b3033cc6605c80ff0af\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\a5244caf3d1800f36b48c4a6fa82b08154043535\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\5babb31c13e872a3a1263ef6b76bb08d03e2e9fa\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\王帝\.android\build-cache\ebba5ea70ee009dbdfad50fee37be54ba2837794\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\androidfile\\Food\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_my_drawer.xml",
+        "source": "D:\\androidfile\\Food\\app\\src\\main\\res\\menu\\activity_my_drawer.xml"
+    },
+    {
+        "merged": "D:\\androidfile\\Food\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my.xml",
+        "source": "D:\\androidfile\\Food\\app\\src\\main\\res\\menu\\my.xml"
+    }
+]
